@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I am currently working on Blaze Client.<br>🏢 I am a founder and lead developer of CoHance Studios.<br>💻 I am fluent in 10+ programming languages + HTML and CSS.
+🔥 I am currently working on Blaze Client.<br>🏢 I am a founder and lead developer of CoHance Studios.<br>💻 I am fluent in 14+ programming languages + HTML and CSS.
 
 
 ## 🌐 Socials:
